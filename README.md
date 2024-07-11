@@ -121,9 +121,22 @@
 <p>
   <a href="" target="_blank" rel="noreferrer">
     <img
-      src="https://camo.githubusercontent.com/7d9a109def95e554de78fb72fcf397122163aaae4a87df38db8b7e0d3c79ffee/68747470733a2f2f736b696c6c732e7468696a732e67672f69636f6e733f693d7673636f64652c61746f6d2c6769742c6769746875622c6669676d61267468656d653d6461726b"
-      alt="express"
-      style="max-width: 100"
+      src="https://img.shields.io/badge/vercel%20-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white"
+    />
+  </a>
+  <a href="" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"
+    />
+  </a>
+  <a href="" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"
+    />
+  </a>
+  <a href="" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"
     />
   </a>
 </p>
