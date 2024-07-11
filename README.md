@@ -27,7 +27,7 @@
     rel="noreferrer"
   >
     <img
-      src="https://img.shields.io/badge/facebook: Anik Barua-%2300acee.svg?color=405DE6&style=for-the-badge&logo=facebook&logoColor=white"
+      src="https://img.shields.io/badge/facebook-%2300acee.svg?color=405DE6&style=for-the-badge&logo=facebook&logoColor=white"
       alt="linkedin"
       style="margin-bottom: 5px"
     />
@@ -38,7 +38,7 @@
     rel="noreferrer"
   >
     <img
-      src="https://img.shields.io/badge/linkedin: Anik Barua-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white"
+      src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white"
       alt="linkedin"
       style="margin-bottom: 5px"
     />
@@ -48,62 +48,44 @@
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+      src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
       alt="html5"
-      width="40"
-      height="40"
     />
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+      src="https://img.shields.io/badge/CSS3%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"
       alt="css3"
-      width="40"
-      height="40"
     />
   </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
-      alt="sass"
-      width="40"
-      height="40"
+      src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"
     />
   </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-      alt="bootstrap"
-      width="40"
-      height="40"
+      src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"
     />
   </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img
-      src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
-      alt="tailwind"
-      width="40"
-      height="40"
+      src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"
     />
   </a>
-  <a
-    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-    target="_blank"
-    rel="noreferrer"
-  >
+  <a href="" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript"
-      width="40"
-      height="40"
+      src="https://img.shields.io/badge/tailwindcss%20-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white"
     />
   </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+  <a href="" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react"
-      width="40"
-      height="40"
+      src="https://img.shields.io/badge/daisyui%20-%23000.svg?&style=for-the-badge&logo=daisyui&logoColor=white"
+    />
+  </a>
+  <a href="" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/Reactbootstrap%20-%23000.svg?&style=for-the-badge&logo=reactbootstrap&logoColor=white"
     />
   </a>
 </p>
