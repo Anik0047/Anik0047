@@ -93,9 +93,27 @@
 <p align="left">
   <a href="" target="_blank" rel="noreferrer">
     <img
-      src="https://camo.githubusercontent.com/e853f5f1e0dc0f9e75821e9a6bf6ab06d14ed8439e8f615497f6459cf7fa406f/68747470733a2f2f736b696c6c732e7468696a732e67672f69636f6e733f693d6e6f64656a732c657870726573732c6d6f6e676f64622c6669726562617365267468656d653d6461726b"
-      alt="express"
-      style="max-width: 100"
+      src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"
+    />
+  </a>
+  <a href="" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"
+    />
+  </a>
+  <a href="" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"
+    />
+  </a>
+  <a href="" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"
+    />
+  </a>
+  <a href="" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"
     />
   </a>
 </p>
