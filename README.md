@@ -14,7 +14,8 @@
     🔭 Working on ReactJs and NextJs
     🌟 Main languages: JavaScript, C++
     🚩 Interested in Full Stack development
-    🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="" target="_blank">MY RESUME.</a>
+    🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, 
+        this is <a href="" target="_blank">MY RESUME.</a>
     📫 How to reach me **anikbrua98@gmail.com**
     </pre>
 
