@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Anik Barua</h1>
 <h3 align="center">A passionate FullStack Developer from Bangladesh</h3>
-<img
-  align="center"
-  alt="Coding"
-  width="400"
-  src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"
-/>
-
+<div align="center">
+  <img
+    alt="Coding"
+    width="500"
+    src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"
+  />
+</div>
+<br />
 <pre>
     💻 I am a self taught Full Stack Developer
     📚 I have a Bachelor's in Computer Science from East Delta University 
@@ -17,7 +18,7 @@
     🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, 
         this is <a href="" target="_blank">MY RESUME.</a>
     📫 How to reach me **anikbrua98@gmail.com**
-    </pre>
+</pre>
 
 <h3 align="left">Contact Me:</h3>
 <p align="left">
