@@ -9,15 +9,15 @@
 </div>
 <br />
 <pre>
-    💻 I am a self taught Full Stack Developer
-    📚 I have a Bachelor's in Computer Science from East Delta University 
-    📝 I have a strong interest in Web Development
-    🔭 Working on ReactJs and NextJs
-    🌟 Main languages: JavaScript, C++
-    🚩 Interested in Full Stack development
+    💻 I am a self taught Full Stack Developer.
+    📚 I have a Bachelor's in Computer Science from East Delta University.
+    📝 I have a strong interest in Web Development.
+    🔭 Working on ReactJs and NextJs.
+    🌟 Main languages: JavaScript, C++.
+    🚩 Interested in Full Stack development.
     🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, 
         this is <a href="" target="_blank">MY RESUME.</a>
-    📫 How to reach me **anikbrua98@gmail.com**
+    📫 How to reach me **anikbrua98@gmail.com**.
 </pre>
 
 <h3 align="left">Contact Me:</h3>
