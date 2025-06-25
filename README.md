@@ -1,3 +1,5 @@
+<img src="github-header-image.png" alt="GitHub Banner" style="width:100%;"/>
+
 # 💫 About Me:
 💻 I am a self-taught Full Stack Developer.<br>📚 I have a Bachelor's in Computer Science from East Delta University.<br>📝 I have a strong interest in Web Development.<br>🔭 Working on ReactJs.<br>🌟 Main languages: JavaScript.<br>👯 I’m looking to collaborate on a team/company<br>🚩 I’m currently open for An Intern or a new job opportunity<br>🌱 I’m currently learning C++ and NextJs.<br>⚡ How to reach me anikbrua98@gmail.com.
 
